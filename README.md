@@ -1,5 +1,8 @@
-Robot design
+#Robot design
 
 Ressources in use:
-ev3dev (https://www.ev3dev.org/)
-leoCAD (https://www.leocad.org/)
+yellow2 instruction: http://replicatio.science/~khk/legoag/robot.html
+
+ev3dev OS: https://www.ev3dev.org/
+
+leoCAD: https://www.leocad.org/
